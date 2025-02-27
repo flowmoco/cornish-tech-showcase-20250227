@@ -1,0 +1,30 @@
+[[./Flowmo_Logo.png]]
+
+* The BIG Cornish Tech Showcase
+
+[[https://flowmo.co][flowmo.co]]
+
+** Citations for ChatGPT stats
+
+Fasthosts article:
+
+https://www.fasthosts.co.uk/blog/proactive/energy-costs-of-chatgpt-the-hidden-impact-2/
+
+Business Energy UI article:
+
+https://www.businessenergyuk.com/knowledge-hub/chatgpt-energy-consumption-visualized/
+
+** Tools
+
+Ollama:
+
+[[https://ollama.com/][https://ollama.com/]]
+
+OpenRouter:
+
+[[https://openrouter.ai/][OpenRouter.ai]]
+
+Hugging Face LLM Leaderboard:
+
+[[https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/][https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/]]
+
